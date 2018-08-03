@@ -16,10 +16,22 @@
   "startedAt": 1537912800,
   "endedAt": 1533074400,
   "type": ["Business", "Design"],
-  "lang": "FR",
+  "lang": "EN",
   "editor": "Portfolio",
   "cover" : "http://cdn.clementsauvage.me/books/hooked_yal.jpg",
   "ISBN" : 9781591847786,
   "quote" : null,
   "note" : 4.7
+},{
+  "title": "Ecosystème",
+  "author": "Rachel Vanier",
+  "startedAt": 1531173600,
+  "endedAt": 1531519200,
+  "type": ["Novel", "Startup"],
+  "lang": "FR",
+  "editor": "Intervalles",
+  "cover" : "http://cdn.clementsauvage.me/books/hooked_yal.jpg",
+  "ISBN" : 9782369560517,
+  "quote" : null,
+  "note" : 4.9
 }]
