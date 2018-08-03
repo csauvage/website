@@ -10,4 +10,16 @@
   "ISBN" : 9780320079627,
   "quote" : null,
   "note" : null
+},{
+  "title": "Hooked",
+  "author": "Nir Eyal",
+  "startedAt": 1533074400,
+  "endedAt": null,
+  "type": ["Business", "Design"],
+  "lang": "FR",
+  "editor": "Portfolio",
+  "cover" : "http://cdn.clementsauvage.me/books/hooked_yal.jpg",
+  "ISBN" : 9781591847786,
+  "quote" : null,
+  "note" : 4.7
 }]
