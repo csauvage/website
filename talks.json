@@ -67,7 +67,20 @@
             "link": "https://speakerdeck.com/csauvage/realm-dot-io-the-brand-new-database-for-mobile-apps"
           },
           {
-            "thumbnail": "http://cdn.clementsauvage.me/talks/Cocoaheads_Realm_2014.jpg",
+            "thumbnail": "http://cdn.clementsauvage.me/talks/Lecture_Lille_1.jpg",
+            "title": "iOS from day 1 to the AppStore",
+            "excerpt": "Lecture I give at Université Lille 1 about iOS development for IT fall session",
+            "date": "November 2013",
+            "event": {
+              "name": "Lille 1 College",
+              "website": "http://www.univ-lille1.fr/",
+              "place": "Lille 🇫🇷"
+            },
+            "keywords": ["iOS", "Bugs", "Crash", "Crashlytics", "Fabric", "Objective-C"],
+            "link": "https://speakerdeck.com/csauvage/cocoaheads-lille-sept-2013-back-to-school"
+          },
+          {
+            "thumbnail": "http://cdn.clementsauvage.me/talks/Cocoaheads_Crashlytics_2013.jpg",
             "title": "1 Billion crashes a day ! And me !",
             "excerpt": "How to handle crash in your app, the nice way ? (Later after this talk Crashlytics was renamed Fabric, was bought by Twitter and is now property of Google)",
             "date": "Sept 2013",
