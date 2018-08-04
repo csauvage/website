@@ -2,7 +2,7 @@
   "future_engagements" : [],
   "past_talks" : [
           {
-            "thumbnail: "http://cdn.clementsauvage.me/talks/VivaTech_Tontons.jpg",
+            "thumbnail": "http://cdn.clementsauvage.me/talks/VivaTech_Tontons.jpg",
             "title": "Move anything in a Snap",
             "excerpt": "Presentation given about my former startup, Les Tontons Livreurs, during Vivatech Summit.",
             "date": "May 2018",
@@ -15,7 +15,7 @@
             "link": "https://speakerdeck.com/csauvage/les-tontons-at-vivatechnology-2018"
           },
           {
-            "thumbnail: "http://cdn.clementsauvage.me/talks/AltConf_2017.jpg",
+            "thumbnail": "http://cdn.clementsauvage.me/talks/AltConf_2017.jpg",
             "title": "Building an app for a presidential election",
             "excerpt": "Talk I gave about my implication as an iOS developer during Emmanuel Macron's election campaign",
             "date": "June 2017",
