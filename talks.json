@@ -41,7 +41,7 @@
             "link": "https://speakerdeck.com/csauvage/core-animator-animation-in-ios-and-os-x-painlessly"
           },
           {
-            "thumbnail": "http://cdn.clementsauvage.me/talks/Cocoaheads_CoreAnimator_2015.jpg",
+            "thumbnail": "http://cdn.clementsauvage.me/talks/Cocoaheads_iBeacon.jpg",
             "title": "A iBeacon Story",
             "excerpt": "How to leverage iBeacon technology (intr. iOS 7) in our iOS apps !",
             "date": "January 2015",
@@ -52,6 +52,32 @@
             },
             "keywords": ["iOS", "Localisation", "Skiing", "Software", "Objective-C"],
             "link": "https://speakerdeck.com/csauvage/15"
+          },
+          {
+            "thumbnail": "http://cdn.clementsauvage.me/talks/Cocoaheads_Realm_2014.jpg",
+            "title": "Realm.io - a Star Wars Story ",
+            "excerpt": "Let's rethink how to store data on iOS using Realm (feat. a Death Star and Stormtroopers)!",
+            "date": "Nov 2014",
+            "event": {
+              "name": "Cocoaheads",
+              "website": "http://cocoaheads.fr",
+              "place": "Paris 🇫🇷"
+            },
+            "keywords": ["iOS", "Database", "Starwars", "Objective-C"],
+            "link": "https://speakerdeck.com/csauvage/realm-dot-io-the-brand-new-database-for-mobile-apps"
+          },
+          {
+            "thumbnail": "http://cdn.clementsauvage.me/talks/Cocoaheads_Realm_2014.jpg",
+            "title": "1 Billion crashes a day ! And me !",
+            "excerpt": "How to handle crash in your app, the nice way ? (Later after this talk Crashlytics was renamed Fabric, was bought by Twitter and is now property of Google)",
+            "date": "Sept 2013",
+            "event": {
+              "name": "Cocoaheads",
+              "website": "http://cocoaheads.fr",
+              "place": "Paris 🇫🇷 / Lille 🇫🇷 / Rennes 🇫🇷"
+            },
+            "keywords": ["iOS", "Bugs", "Crash", "Crashlytics", "Fabric", "Objective-C"],
+            "link": "https://speakerdeck.com/csauvage/cocoaheads-lille-sept-2013-back-to-school"
           }
         ]
 }
