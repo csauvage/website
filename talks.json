@@ -1,6 +1,17 @@
 {
   "future_engagements" : [
     {
+      "title" : "Startup weekend Franco-belge",
+      "date": "Sept. 2018",
+      "excerpt": "I'll be a mentor ",
+      "event": {
+         "name": "SW Lille",
+         "website": "http://communities.techstars.com/france/lille/startup-weekend/12607",
+         "place": "Lille, 🇫🇷"
+      },
+      "link": null
+    },
+    {
       "title" : "T.B.A",
       "date": "Oct. 2018",
       "excerpt": "T.B.A",
@@ -10,7 +21,6 @@
          "place": "San Francisco, CA, 🇺🇸"
       },
       "link": null
-      
     }
   ],
   "past_talks" : [
