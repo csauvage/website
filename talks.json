@@ -26,6 +26,32 @@
             },
             "keywords": ["Swift", "Node.js", "Politics", "User Engagement"],
             "link": "https://speakerdeck.com/csauvage/altconf-2017-creating-an-app-for-a-presidential-election"
+          },
+          {
+            "thumbnail": "http://cdn.clementsauvage.me/talks/Cocoaheads_CoreAnimator_2015.jpg",
+            "title": "Frictionless animation on iOS using Core Animator",
+            "excerpt": "Animations can be a pain on iOS, let's see how we can make them easily using core Animator !",
+            "date": "March 2015",
+            "event": {
+              "name": "Cocoaheads",
+              "website": "http://cocoaheads.fr",
+              "place": "Paris 🇫🇷 / Lille 🇫🇷"
+            },
+            "keywords": ["iOS Design", "Animation", "Software", "Objective-C"],
+            "link": "https://speakerdeck.com/csauvage/core-animator-animation-in-ios-and-os-x-painlessly"
+          },
+          {
+            "thumbnail": "http://cdn.clementsauvage.me/talks/Cocoaheads_CoreAnimator_2015.jpg",
+            "title": "A iBeacon Story",
+            "excerpt": "How to leverage iBeacon technology (intr. iOS 7) in our iOS apps !",
+            "date": "January 2015",
+            "event": {
+              "name": "Cocoaheads",
+              "website": "http://cocoaheads.fr",
+              "place": "Paris 🇫🇷"
+            },
+            "keywords": ["iOS", "Localisation", "Skiing", "Software", "Objective-C"],
+            "link": "https://speakerdeck.com/csauvage/15"
           }
         ]
 }
