@@ -12,18 +12,31 @@
       "link": null
     },
     {
-      "title" : "Startup week-end 🇫🇷/🇧🇪",
-      "date": "Sept. 2018",
-      "excerpt": "I'll be a mentor ",
+      "title" : "From 0. to production. Build an MVP in 1h or less",
+      "date": "Oct. 2018",
+      "excerpt": "If you want to build an MVP in no time, this talk is for you !",
       "event": {
-         "name": "SW Lille",
-         "website": "http://communities.techstars.com/france/lille/startup-weekend/12607",
-         "place": "Lille, 🇫🇷"
+         "name": "MdF 2018",
+         "website": "https://www.meilleurdevdefrance.com",
+         "place": "La Défense, Paris 🇫🇷"
       },
       "link": null
-    }
+    },
   ],
   "past_talks" : [
+        {
+            "thumbnail": "https://www.euratechnologies.com/content/uploads/2018/07/sw-belgo-french.jpg",
+            "title": "Startup Weekend",
+            "excerpt": "Was startup & code mentor @ Belgo-french SW",
+            "date": "June 2018",
+            "event": {
+              "name": "CCI Lille",
+              "website": "https://twitter.com/sw_belgo_french",
+              "place": "Lille 🇫🇷"
+            },
+            "keywords": ["Startup", "France", "Belgique", "Techstars"],
+            "link": "#"
+         },
          {
             "thumbnail": "http://cdn.clementsauvage.me/talks/Twilio-Quest.png",
             "title": "Twilio Quest @ Station F",
