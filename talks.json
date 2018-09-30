@@ -1,12 +1,12 @@
 {
   "future_engagements" : [
     {
-      "title" : "It's a seeeeeecret 🐵🙈🙉",
+      "title" : "Building Bots with Twilio Studio",
       "date": "Oct. 2018",
-      "excerpt": "Don't worry, you'll know sooner or later (it gonna be...juicy)",
+      "excerpt": "If you think of a chatbot as a collection of messages and responses, it can be daunting. But with Studio, it can just flow. I’ll walk through my first time to use Twilio Studio to build a payment taking chatbot from scratch to give you an overview of how easy Twilio Studio projects can be.",
       "event": {
          "name": "Twilio SIGNAL 2018",
-         "website": "https://signal.twilio.com",
+         "website": "https://signal.twilio.com/sessions/Cv_F1pzcEeinnApYClWrDA",
          "place": "Bill Graham Conv. Center / San Francisco, CA, 🇺🇸"
       },
       "link": null
