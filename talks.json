@@ -1,11 +1,11 @@
 {
   "future_engagements" : [
     {
-      "title" : "From 0. to production. Build an MVP in 1h or less",
+      "title" : "Tout le monde peut créer un produit exceptionnel",
       "date": "Oct. 2018",
-      "excerpt": "If you want to build an MVP in no time, this talk is for you !",
+      "excerpt": "Créer une startup en 2018 ne nécessite plus de compétences hors-du commun grâce aux outils mis à notre disposition !",
       "event": {
-         "name": "MdF 2018",
+         "name": "Meilleur dev de France 2018",
          "website": "https://www.meilleurdevdefrance.com",
          "place": "La Défense, Paris 🇫🇷"
       },
