@@ -27,9 +27,9 @@
             "link": "#"
          },
         {
-            "thumbnail": "https://www.euratechnologies.com/content/uploads/2018/07/sw-belgo-french.jpg",
+            "thumbnail": "http://cdn.clementsauvage.me/talks/SW_Lille.jpg",
             "title": "Startup Weekend",
-            "excerpt": "Was startup & code mentor @ Belgo-french SW",
+            "excerpt": "Startup & code mentor @ Belgo-french Startup Weekend",
             "date": "June 2018",
             "event": {
               "name": "CCI Lille",
