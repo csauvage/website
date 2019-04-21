@@ -1,6 +1,6 @@
 {
   "san-francisco-united-states": null, 
-  "lille-france":"",
+  "lille-france":"http://cdn.clementsauvage.me/website/places/lille.jpg",
   "sarzeau-france":"",
   "brest-france": null, 
   "san-jose-united-states": null,
@@ -9,7 +9,7 @@
   "bourg-saint-maurice-france": null,
   "nantes-france": null,
   "boston-united-states": null,
-  "new-york-city-united-states": null,
+  "new-york-city-united-states": "http://cdn.clementsauvage.me/website/places/new-york.jpg",
   "vienna-austria": null,
   "helsinki-finland": null,
   "tours-france": null,
