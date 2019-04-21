@@ -7,12 +7,12 @@
   "singapore-singapore": "http://cdn.clementsauvage.me/website/places/singapore.jpg",
   "london-united-kingdom": "http://cdn.clementsauvage.me/website/places/London.jpg",
   "bourg-saint-maurice-france": "http://cdn.clementsauvage.me/website/places/bourg-st-maurice.jpg",
-  "nantes-france": null,
+  "nantes-france": "http://cdn.clementsauvage.me/website/places/nantes.jpg",
   "boston-united-states": "http://cdn.clementsauvage.me/website/places/boston.jpg",
   "new-york-city-united-states": "http://cdn.clementsauvage.me/website/places/new-york.jpg",
   "vienna-austria": "http://cdn.clementsauvage.me/website/places/wien.jpg",
   "helsinki-finland": "http://cdn.clementsauvage.me/website/places/helsinki.jpg",
-  "tours-france": null,
+  "tours-france": "http://cdn.clementsauvage.me/website/places/tours.jpg",
   "paris-france": "http://cdn.clementsauvage.me/website/places/paris.jpg",
   "arzon-france": "http://cdn.clementsauvage.me/website/places/arzon.jpg",
   "bergues-france": "http://cdn.clementsauvage.me/website/places/bergues.jpg",
@@ -21,6 +21,6 @@
   "brussels-belgium": "http://cdn.clementsauvage.me/website/places/brussels.jpg",
   "barcelona-spain": "http://cdn.clementsauvage.me/website/places/barcelona.jpg",
   "athens-greece": "http://cdn.clementsauvage.me/website/places/athens.jpg",
-  "milan-italy": null,
+  "milan-italy": "http://cdn.clementsauvage.me/website/places/milano.jpg",
   "bolzano-italy": null
 }
