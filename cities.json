@@ -17,9 +17,9 @@
   "arzon-france": null,
   "bergues-france": "http://cdn.clementsauvage.me/website/places/bergues.jpg",
   "los-angeles-united-states": "http://cdn.clementsauvage.me/website/places/los-angeles.jpg",
-  "cologne-germany": null,
-  "brussels-belgium": null,
-  "barcelona-spain": null,
+  "cologne-germany": "http://cdn.clementsauvage.me/website/places/koln.jpg",
+  "brussels-belgium": "http://cdn.clementsauvage.me/website/places/brussels.jpg",
+  "barcelona-spain": "http://cdn.clementsauvage.me/website/places/barcelona.jpg",
   "athens-greece": "http://cdn.clementsauvage.me/website/places/athens.jpg",
   "milan-italy": null,
   "bolzano-italy": null
