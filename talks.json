@@ -2,17 +2,17 @@
   "future_engagements" : [],
   "past_talks" : [
     {
-      "thumbnail": "http://cdn.clementsauvage.me/talks/talks_signal.jpg",
-            "title": "Tout le monde peut créer un produit exceptionnel",
-            "excerpt": "Créer un MVP de startup en quelques minutes avec Twilio Studio ?! Challenge Accepted",
-            "date": "Oct. 2018",
-            "event": {
-              "name": "Meilleur Dev de France",
-              "website": "https://www.meilleurdevdefrance.com/mdf18/",
-              "place": " Paris, France, 🇫🇷"
+      "thumbnail": "http://cdn.clementsauvage.me/talks/mdf_header.png",
+      "title": "Tout le monde peut créer un produit exceptionnel",
+      "excerpt": "Créer un MVP de startup en quelques minutes avec Twilio Studio ?! Challenge Accepted",
+      "date": "Oct. 2018",
+      "event": {
+          "name": "Meilleur Dev de France",
+          "website": "https://www.meilleurdevdefrance.com/mdf18/",
+          "place": " Paris, France, 🇫🇷"
             },
-            "keywords": ["Startup", "Twilio", "Bots"],
-            "link": "#"
+      "keywords": ["Startup", "Twilio", "Bots", "SMS", "Chatbots"],
+      "link": "#"
     },
         {
             "thumbnail": "http://cdn.clementsauvage.me/talks/talks_signal.jpg",
