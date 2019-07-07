@@ -5,11 +5,11 @@
       "thumbnail": "http://cdn.clementsauvage.me/talks/swiftui-mdf_2019.png",
       "title": "SwiftUI 101 : Bringing simplicity in iOS Views",
       "excerpt": "SwiftUI a été annoncé à la WWDC19, explorons cette nouvelle façon d'étudier les UI sous iOS/watchOS/macOS",
-      "date": "Oct. 2018",
+      "date": "17 Oct. 2019",
       "event": {
           "name": "Meilleur Dev de France",
           "website": "https://www.mdf19.com/",
-          "place": " Paris, France, 🇫🇷"
+          "place": " Paris, France 🇫🇷"
             },
       "keywords": ["Startup", "Twilio", "Bots", "SMS", "Chatbots"],
       "link": "#"
