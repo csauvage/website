@@ -2,6 +2,19 @@
 {
   "future_engagements" : [
     {
+      "thumbnail": "https://cdn.pixabay.com/photo/2017/11/16/09/32/matrix-2953869_960_720.jpg",
+      "title": "The future of API : How AI can help ?",
+      "excerpt": "SwiftUI a été annoncé à la WWDC19, explorons cette nouvelle façon d'étudier les UI sous iOS/watchOS/macOS",
+      "date": "17 Oct. 2019",
+      "event": {
+          "name": "Gitex",
+          "website": "https://https://www.gitex.com/",
+          "place": " Dubaï, UAE 🇦🇪"
+            },
+      "keywords": ["API Design", "AI", "Machine Learning", "Twilio", "Stripe"],
+      "link": "#"
+    },
+    {
       "thumbnail": "http://cdn.clementsauvage.me/talks/swiftui-mdf_2019.png",
       "title": "SwiftUI 101 : Bringing simplicity in iOS Views",
       "excerpt": "SwiftUI a été annoncé à la WWDC19, explorons cette nouvelle façon d'étudier les UI sous iOS/watchOS/macOS",
