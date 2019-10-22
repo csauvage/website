@@ -1,6 +1,20 @@
 
 {
-  "future_engagements" : [
+  "future_engagements" : [],
+  "past_talks" : [
+    {
+      "thumbnail": "http://cdn.clementsauvage.me/talks/swiftui-mdf_2019.png",
+      "title": "SwiftUI 101 : Bringing simplicity in iOS Views",
+      "excerpt": "SwiftUI a été annoncé à la WWDC19, explorons cette nouvelle façon d'étudier les UI sous iOS/watchOS/macOS",
+      "date": "17 Oct. 2019",
+      "event": {
+          "name": "Meilleur Dev de France",
+          "website": "https://www.mdf19.com/",
+          "place": " Paris, France 🇫🇷"
+            },
+      "keywords": ["Startup", "Twilio", "Bots", "SMS", "Chatbots"],
+      "link": "#"
+    },
     {
       "thumbnail": "https://cdn.pixabay.com/photo/2017/11/16/09/32/matrix-2953869_960_720.jpg",
       "title": "The future of API : How AI can help ?",
@@ -14,21 +28,6 @@
       "keywords": ["API Design", "AI", "Machine Learning", "Twilio", "Stripe"],
       "link": "#"
     },
-    {
-      "thumbnail": "http://cdn.clementsauvage.me/talks/swiftui-mdf_2019.png",
-      "title": "SwiftUI 101 : Bringing simplicity in iOS Views",
-      "excerpt": "SwiftUI a été annoncé à la WWDC19, explorons cette nouvelle façon d'étudier les UI sous iOS/watchOS/macOS",
-      "date": "17 Oct. 2019",
-      "event": {
-          "name": "Meilleur Dev de France",
-          "website": "https://www.mdf19.com/",
-          "place": " Paris, France 🇫🇷"
-            },
-      "keywords": ["Startup", "Twilio", "Bots", "SMS", "Chatbots"],
-      "link": "#"
-    }
-  ],
-  "past_talks" : [
     {
       "thumbnail": "http://cdn.clementsauvage.me/talks/mdf_header.png",
       "title": "Tout le monde peut créer un produit exceptionnel",
